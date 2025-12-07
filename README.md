@@ -28,7 +28,6 @@ AI 产品与工具导航站，聚合和发现优质 AI 应用与服务。
 ---
 
 ### 🎙 [VibeVoice](https://vibevoice.site)
-微软开源 VibeVoice 模型的在线体验站。
 
 微软开源 **VibeVoice** 模型的在线体验站，零门槛试用语音生成能力。
 
